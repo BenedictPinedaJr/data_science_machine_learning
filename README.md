@@ -1,7 +1,7 @@
 ## 1. Open the terminal and go to project's base folder and create a python virtual environment using venv and activate it:
-"python -m venv <name-of-env>" 
+"python -m venv **name-of-env**" 
 
-"<name-of-env>/Scripts/Activate.ps1" // For powershell
+"**name-of-env**/Scripts/Activate.ps1" // For powershell
 
 ## 2. Install python dependencies using the following command:
 "pip install -r requirements.txt"

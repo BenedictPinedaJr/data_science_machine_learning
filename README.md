@@ -8,7 +8,8 @@
 
 ## 3. Set kernel to to the created python environment  
 
-** If there are new depencies installed use the following command to store the dependecies to the list.
+## *Notes
+** If there are new depencies installed, use the following command to store the dependecies to the list.
 
 "pip freeze > requirements.txt"  
 

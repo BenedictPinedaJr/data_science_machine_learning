@@ -15,3 +15,5 @@
 
 ** Creating python virtual environment guide for VSCode:
 https://code.visualstudio.com/docs/python/environments
+
+** Dataset used are NOT mine. Sources are from public datasets like Kaggle.
